@@ -4,6 +4,13 @@
 <template>
     <div class="sidebar">
         hello sidebar
+        <ul>
+            <li><a href="">Home </a></li>
+            <li><a href="">About </a></li>
+            <li><a href="">Home </a></li>
+            <li><a href="">Home </a></li>
+            <li><a href="">Home </a></li>
+        </ul>
     </div>
 </template>
 <style scoped>
